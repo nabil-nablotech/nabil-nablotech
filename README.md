@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nabil Mohammed
 - 👀 I’m interested in web development and cyber security.
 - 🌱 I am currenty working as a web developer.
-- I have graduated from Addis Ababa University with Bachelor of Science in Information Systems (CGPA: 3.99). 
+- 📫 I have graduated from Addis Ababa University with Bachelor of Science in Information Systems (CGPA: 3.99). 
 - 💞️ I’m looking to collaborate on any web based projects and security related projects.
 - 📫 For any help or inquiry, you can reach me through the following links:
     * Twitter: [NabilMo49789998](https://twitter.com/NabilMo49789998)
