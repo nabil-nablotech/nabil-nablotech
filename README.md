@@ -5,6 +5,7 @@
 - 📫 I have graduated from Addis Ababa University with Bachelor of Science in Information Systems (CGPA: 3.99). 
 - 💞️ I’m looking to collaborate on any web based projects and security related projects.
 - 📫 For any help or inquiry, you can reach me through the following links:
+    * My personal website: [Nabil Mohammed](https://nabilmohammed.netlify.app/)
     * LinkedIn: [Nabil Mohammed](https://www.linkedin.com/in/nabil-mohammed-2088b620a/)
 
 <!---
