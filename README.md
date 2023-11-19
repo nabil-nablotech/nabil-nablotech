@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Nabil Mohammed
 - 👀 I’m interested in web development and cyber security.
 - 🌱 I am currenty working as a web developer.
+- 📫 I am currently pursuing my Master's degree in Computer Science at the University of Camerino in Italy.
 - 📫 I have graduated from Addis Ababa University with Bachelor of Science in Information Systems (CGPA: 3.99). 
 - 💞️ I’m looking to collaborate on any web based projects and security related projects.
 - 📫 For any help or inquiry, you can reach me through the following links:
-    * Twitter: [NabilMo49789998](https://twitter.com/NabilMo49789998)
-    * Facebook: [Nabil Mohammed](https://www.facebook.com/nabil.mohammed.5648/)
     * LinkedIn: [Nabil Mohammed](https://www.linkedin.com/in/nabil-mohammed-2088b620a/)
 
 <!---
